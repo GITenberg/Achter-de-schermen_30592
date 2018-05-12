@@ -1,0 +1,38 @@
+_repo: Achter-de-schermen_30592
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hoeven, J. H. van der
+    aliases:
+    - Van der Hoeven, J. H.
+    - Der Hoeven, J. H. van
+    gutenberg_agent_id: '34704'
+    url: http://www.gutenberg.org/2009/agents/34704
+covers:
+- cover_type: archival
+  image_path: 30592-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schürmann, Joseph J.
+    aliases:
+    - Schurmann, Joseph J.
+    - Schürmann, Josef
+    - Schürmann, Jos. J. (Joseph J.)
+    birthdate: 1857
+    gutenberg_agent_id: '34700'
+    url: http://www.gutenberg.org/2009/agents/34700
+description: ''
+gutenberg_issued: '2009-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30592'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schürmann, Joseph J., 1857-'
+- !lcc 'PN'
+- !lcsh 'Impresarios -- Biography'
+title: Achter de schermen
+url: http://www.gutenberg.org/ebooks/30592
