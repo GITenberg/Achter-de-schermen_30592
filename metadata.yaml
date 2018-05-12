@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34700'
     url: http://www.gutenberg.org/2009/agents/34700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30592#Achter-de-schermen
 gutenberg_issued: '2009-12-03'
 gutenberg_type: Text
 identifiers:
